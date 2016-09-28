@@ -1,2 +1,3 @@
 # atmel-sam4e-demo
-A cool demo I developed for Atmel and SAM4E EK eval board, featuring QTouch, ADC, DAC, DSP processing and lwIP! All running in a multi threaded environment using FreeRTOS.
+I developed this cool demo while working at Atmel. It was initially designed for SAM4E EK eval board, featuring QTouch, Sound processing using ADC/DAC, DSP, LCD display and also runs lwIP based HTTP server! It all runs in a multi threaded environment using FreeRTOS.
+Folder structure is not my fav, but following Atmel example structure. Init and tasks are implemented under sam/applications folder! Enjoy ;-)
